@@ -3,6 +3,8 @@ SRGEventDateRecorder
 
 SRGEventDateRecorder record event date and count persistently.
 
+Anrdoid project is [here](https://github.com/shoma2da/EventDateRecorder).
+
 ## Installation
 
 Add the following line to your podfile and run `pod update`.
