@@ -2,9 +2,9 @@ SRGEventDateRecorder
 ===========
 
 [![CI Status](http://img.shields.io/travis/soragoto/SRGEventDateRecorder.svg?style=flat)](https://travis-ci.org/soragoto/SRGEventDateRecorder)
-[![Version](https://img.shields.io/cocoapods/v/SRGEventDateRecorder.svg?style=flat)](http://cocoadocs.org/docsets/SRGEventDateRecorder)
-[![License](https://img.shields.io/cocoapods/l/SRGEventDateRecorder.svg?style=flat)](http://cocoadocs.org/docsets/SRGEventDateRecorder)
-[![Platform](https://img.shields.io/cocoapods/p/SRGEventDateRecorder.svg?style=flat)](http://cocoadocs.org/docsets/SRGEventDateRecorder)
+[![Version](https://img.shields.io/cocoapods/v/SRGEventDateRecorder.svg?style=flat)](https://github.com/soragoto/SRGEventDateRecorder)
+[![License](https://img.shields.io/cocoapods/l/SRGEventDateRecorder.svg?style=flat)](https://github.com/soragoto/SRGEventDateRecorder)
+[![Platform](https://img.shields.io/cocoapods/p/SRGEventDateRecorder.svg?style=flat)](https://github.com/soragoto/SRGEventDateRecorder)
 
 SRGEventDateRecorder record event date and count persistently.
 
