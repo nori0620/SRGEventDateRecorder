@@ -9,7 +9,7 @@ Anrdoid project is [here](https://github.com/shoma2da/EventDateRecorder).
 
 Add the following line to your podfile and run `pod update`.
 ```ruby
-pod 'SRGEventDateRecorder', :git => 'https://github.com/soragoto/SRGEventDateRecorder.git', :tag => '0.0.1'
+pod 'SRGEventDateRecorder'
 ```
 
 ## Usage
