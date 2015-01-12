@@ -426,6 +426,7 @@
 				CC317C2B1A47FF7200F1738B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CC317C2C1A47FF7200F1738B /* Build configuration list for PBXNativeTarget "SRGEventDateRecorderTests" */ = {
 			isa = XCConfigurationList;
@@ -434,6 +435,7 @@
 				CC317C2E1A47FF7200F1738B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
