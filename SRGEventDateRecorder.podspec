@@ -2,8 +2,8 @@
 Pod::Spec.new do |s|
 
   s.name         = "SRGEventDateRecorder"
-  s.version      = "0.0.1"
-  s.summary      = "SRGEventDateRecorder record event date and count persistently."
+  s.version      = "0.0.2"
+  s.summary      = "Persist event date and count easily."
   s.homepage     = "https://github.com/soragoto/SRGEventDateRecorder"
   s.license      = "MIT"
   s.author       = { "Norihiro Sakamoto" => "nori0620@gmail.com" }
